@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MicArray name="array_32">
+    <pos Name="Point 1" x="-0.003643" y="0.023234" z="0"/>
+    <pos Name="Point 2" x="-0.003884" y="0.033038" z="0"/>
+    <pos Name="Point 3" x="0.002697" y="0.041933" z="0"/>
+    <pos Name="Point 4" x="0.014296" y="0.046690" z="0"/>
+    <pos Name="Point 5" x="0.028165" y="0.045195" z="0"/>
+    <pos Name="Point 6" x="0.040936" y="0.036822" z="0"/>
+    <pos Name="Point 7" x="0.049291" y="0.022585" z="0"/>
+    <pos Name="Point 8" x="0.050686" y="0.004973" z="0"/>
+    <pos Name="Point 9" x="0.043948" y="-0.012538" z="0"/>
+    <pos Name="Point 10" x="0.029607" y="-0.026192" z="0"/>
+    <pos Name="Point 11" x="0.009875" y="-0.032749" z="0"/>
+    <pos Name="Point 12" x="-0.011714" y="-0.030206" z="0"/>
+    <pos Name="Point 13" x="-0.030977" y="-0.018296" z="0"/>
+    <pos Name="Point 14" x="-0.043901" y="0.001358" z="0"/>
+    <pos Name="Point 15" x="-0.047474" y="0.025463" z="0"/>
+    <pos Name="Point 16" x="-0.040357" y="0.049621" z="0"/>
+    <pos Name="Point 17" x="-0.023236" y="0.069157" z="0"/>
+    <pos Name="Point 18" x="0.001200" y="0.080028" z="0"/>
+    <pos Name="Point 19" x="0.028690" y="0.079655" z="0"/>
+    <pos Name="Point 20" x="0.054158" y="0.067497" z="0"/>
+    <pos Name="Point 21" x="0.072662" y="0.045257" z="0"/>
+    <pos Name="Point 22" x="0.080355" y="0.016649" z="0"/>
+    <pos Name="Point 23" x="0.075279" y="-0.013224" z="0"/>
+    <pos Name="Point 24" x="0.057819" y="-0.038796" z="0"/>
+    <pos Name="Point 25" x="0.030721" y="-0.055080" z="0"/>
+    <pos Name="Point 26" x="-0.001330" y="-0.058641" z="0"/>
+    <pos Name="Point 27" x="-0.032539" y="-0.048310" z="0"/>
+    <pos Name="Point 28" x="-0.057043" y="-0.025487" z="0"/>
+    <pos Name="Point 29" x="-0.070029" y="0.006029" z="0"/>
+    <pos Name="Point 30" x="-0.068671" y="0.040682" z="0"/>
+    <pos Name="Point 31" x="-0.052731" y="0.072133" z="0"/>
+    <pos Name="Point 32" x="-0.024688" y="0.094438" z="0"/>
+</MicArray>
