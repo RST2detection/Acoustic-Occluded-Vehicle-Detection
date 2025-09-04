@@ -15,10 +15,10 @@ def main_1(multi_audio_path, target_samples_path, array_i, block_length, step_le
             multi_audio_file_path = multi_audio_path + 'test/' + str(i) + '/'  # 创建一个总的文件夹，把wav里的train和test文件放好就行。
             target_samples_file_path = target_samples_path + 'test/' + str(i) + '/'  # 创建一个总的文件夹，把wav里的train和test文件放好就行。
             multi_single_audio_cut(multi_audio_file_path, target_samples_file_path, length_before_and_leave_sightings,
-                                   15, 0)  # 文件地址，距离出现和离开的点的时间长度，quiet段的时间长度。
+                                   15, 1)  # 文件地址，距离出现和离开的点的时间长度，quiet段的时间长度。
             # 加载待处理.wav文件夹并生成全部csv文件。
             csv_load_sound_files_and_run(target_samples_file_path, block_length, step_length,
-                                         freqRange, times_left_right, 0)
+                                         freqRange, times_left_right, 1)
             # CSV文件生成tdoa图片
             load_csv_files_and_run(target_samples_file_path, 1)
             # single音频生成stft图片,()
